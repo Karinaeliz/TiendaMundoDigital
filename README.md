@@ -26,9 +26,9 @@ La tienda Mundo Digital fue desarrollada utilizando las siguientes tecnologías:
 - Una vez finalizada la orden de compra visualizar el id que identifica la misma.
 
 ## Cómo ejecutar la aplicación localmente
-1. Clona este repositorio en tu máquina local: https://github.com/Karinaeliz/MundoDigitalEcommerce.git
+1. Clona este repositorio en tu máquina local: https://github.com/Karinaeliz/TiendaMundoDigital.git
 2. Asegúrate de tener instalado Node.js en tu sistema.
-3. Navega hasta el directorio raíz del proyecto: cd ecommerce
+3. Navega hasta el directorio raíz del proyecto: cd TiendaMundoDigital
 4. Instala las dependencias del proyecto: npm install
 5. Crea un proyecto en Firebase y configura las credenciales en tu aplicación.
 6. Ejecuta la aplicación localmente: npm start
