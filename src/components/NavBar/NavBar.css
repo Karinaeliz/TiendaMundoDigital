@@ -1,0 +1,17 @@
+.linkPrincipal{
+    text-decoration: none;
+    color: #fff;
+    margin-left: 4px;
+    font-size: 2rem;
+    font-weight: bolder;
+}
+.navCategory {
+    gap: 20px;
+    font-weight: bold;
+    
+}
+.links{
+    text-decoration: none;
+    color: #fff;
+    font-size: 1rem;
+}

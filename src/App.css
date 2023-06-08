@@ -1,0 +1,26 @@
+
+.contenedorError{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  margin: 0px;
+
+}
+.contenedorError .error{
+  width: 50%;
+  height: 20%;
+  margin: 0px;
+}
+@media (max-width: 1020px){
+  .contenedorError .error{
+      width: 100%;
+  }
+}
+
+
+
+
+
+
+

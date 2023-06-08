@@ -1,0 +1,15 @@
+.productos{
+    width: 200px;
+    height: 400px;
+    padding: 10px;
+    text-align: center;
+}
+.imgProd{
+    width: 200px;
+    height: 200px;
+}
+@media (max-width: 1020px){
+    .productos{
+        height: 450px;
+    }
+}
